@@ -21,6 +21,10 @@ Pick the albums, pick a folder, click Export. Nimble Albums copies the original 
 - macOS 15 Sequoia or later
 - Access to your Photos library (macOS asks on first launch)
 
+## Install
+
+Nimble Albums is in beta. [Join the beta on TestFlight](https://testflight.apple.com/join/Xtn7Qdry). It's free. More on [nimbleapps.ch](https://nimbleapps.ch/nimblealbums/index.html).
+
 ## Build from source
 
 You need Xcode.
